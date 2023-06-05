@@ -9,6 +9,6 @@ THIS IS IN BETA
 4. Run through the setup
 
 # Uninstall
-1. Search for apps and click on __Add or remove programs__
-2. Click the 3 dots next to __YouThon Downloader__
+1. Search for apps and click on **Add or remove programs**
+2. Click the 3 dots next to **YouThon Downloader**
 3. Click uninstall
