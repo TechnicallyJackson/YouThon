@@ -1,6 +1,5 @@
 # YouThonOfficial
-A Python-Based YouTube app for Windows.
-THIS IS IN BETA
+A Python-Based YouTube App For Windows. THIS IS IN BETA
 
 # Install
 1. Click on releases
